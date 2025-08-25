@@ -10,7 +10,7 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "@faker-js/faker": "^9.8.0",
+    "@faker-js/faker": "^10.0.0",
     "hono": "^4.8.3",
     "jose": "^6.0.11"
   },
